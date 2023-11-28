@@ -1,4 +1,5 @@
 # Phishing para captura de senhas do Facebook
+Objetivo: criar um Phishing para capturar senhas de login do Facebook.
 
 ### Ferramentas
 
